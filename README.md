@@ -46,4 +46,4 @@ The project architecture is cleanly divided into two major layers: Logic and UI 
 ## 👨‍💻 Author
 **Hazem Alsherbini**
 *Computer Engineering Student*
-* [LinkedIn](www.linkedin.com/in/hazemalsherbini)
+* [LinkedIn](https://www.linkedin.com/in/hazemalsherbini/)
