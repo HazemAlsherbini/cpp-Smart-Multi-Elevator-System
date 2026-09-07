@@ -1,27 +1,27 @@
-# Smart Multi-Elevator Dispatch System 🏢
+# Smart Multi-Elevator Dispatch System 
 
 A console-based C++ application that simulates a smart multi-elevator dispatching system in a building.
 
-## 🌟 Features
+## Features
 The project architecture is cleanly divided into two major layers: Logic and UI (Screens).
 
-### ⚙️ Core Logic
+### Core Logic
 * **OOP Design:** Implemented Elevators and Requests as distinct classes, managed centrally by a `Dispatcher` class.
 * **Flow Control:** Designed an `ElevatorSystem` class that dictates the elevator's flow, movement state, and timing.
 * **Capacity Management:** Each elevator has a configurable maximum capacity (handling up to 5 requests simultaneously).
 * **Smart Queuing:** Excess requests are safely stored in a pending queue and automatically dispatched when an elevator becomes available.
 
-### 🖥️ User Interface (Screens)
+### User Interface (Screens)
 * **Modular UI:** Each screen is encapsulated in its own class, ensuring clean separation from the business logic.
 * **Interactive Experience:** A user-friendly CLI that allows users to interact with the system, send requests, and monitor the elevators' real-time movements.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Language:** C++
 * **Concepts:** Object-Oriented Programming (OOP), Memory Management
 * **Data Structures:** `std::queue`, `std::vector`, `std::map`, and Arrays
 * **Environment:** Console Application / Visual Studio 2026
 
-## 🚀 How To Run
+## How To Run
 
 ### Using Visual Studio
 1. Clone this repository:
@@ -46,4 +46,4 @@ The project architecture is cleanly divided into two major layers: Logic and UI 
 ## 👨‍💻 Author
 **Hazem Alsherbini**
 *Computer Engineering Student*
-* [LinkedIn](linkedin.com/in/hazemalsherbini/)
+* [LinkedIn](www.linkedin.com/in/hazemalsherbini)
